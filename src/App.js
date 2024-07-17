@@ -1,22 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
+import InputForm from './Inputform';
+
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <h1>Diagnostic Test Probability Calculator</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Please enter below 3 probabilities as without decimal point.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <InputForm />
+
+
+        
       </header>
     </div>
   );
