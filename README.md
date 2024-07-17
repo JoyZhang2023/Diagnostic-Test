@@ -20,8 +20,7 @@ Test the application with various input scenarios to ensure accuracy.
 Discuss how the application might be used in a clinical setting and any limitations it might have.
 
 ## Video demo:
-
-
+https://github.com/user-attachments/assets/07d049c7-d68b-44f9-9118-11bb2c4e627c
 
 
 ## More information
